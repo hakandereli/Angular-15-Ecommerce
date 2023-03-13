@@ -1,4 +1,6 @@
 # Sakai
+https://github.com/primefaces/sakai-ng 
+projenin asıl sahibidir kendi denemelerimi yapıyorum üzerinde
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
